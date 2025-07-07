@@ -1,0 +1,11 @@
+[
+  {
+    "username": "7991595092",
+    "license": "active",
+    "expiry": "2500-12-31"
+  },
+  {
+    "username": "user2",
+    "license": "expired"
+  }
+]
